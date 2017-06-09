@@ -11,3 +11,4 @@ It frequently (about every 30 secs or so) clears the Mineshaft NBT and structure
 This might mess with the world gen if generating larger worlds, but it solves the issue. I prefer some bugged Mineshafts over a constantly crashing server.
 
 To install just put the file into your mods folder. That's it. (Maybe check your server console).
+https://github.com/maxanier/MineshaftFixer/releases
