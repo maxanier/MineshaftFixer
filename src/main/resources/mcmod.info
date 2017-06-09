@@ -1,0 +1,9 @@
+[
+  {
+    "modid": "mineshaft-fixer",
+    "name": "MineshaftFixer",
+    "description": "Prevents Minecraft's Mineshaft generator from filling up the memory",
+    "version": "${version}",
+    "mcversion": "${mcversion}"
+  }
+]
